@@ -3,6 +3,7 @@ let g:loaded_getscript         = 1 "$VIMRUNTIME/autoload/getscript.vim
 let g:loaded_getscriptPlugin   = 1 "$VIMRUNTIME/plugin/getscriptPlugin.vim
 let g:loaded_gzip              = 1 "$VIMRUNTIME/plugin/gzip.vim
 let g:loaded_logipat           = 1 "$VIMRUNTIME/plugin/logiPat.vim
+let g:loaded_logiPat           = 1 "$VIMRUNTIME/plugin/logiPat.vim
 let g:loaded_matchparen        = 1 "$VIMRUNTIME/plugin/matchparen.vim
 let g:loaded_netrw             = 1 "$VIMRUNTIME/autoload/netrw.vim
 let g:loaded_netrwFileHandlers = 1 "$VIMRUNTIME/autoload/netrwFileHandlers.vim
