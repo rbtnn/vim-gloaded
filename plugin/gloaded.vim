@@ -1,3 +1,6 @@
+
+let g:loaded_gloaded = 1
+
 let g:loaded_2html_plugin      = 1 "$VIMRUNTIME/plugin/tohtml.vim
 let g:loaded_getscript         = 1 "$VIMRUNTIME/autoload/getscript.vim
 let g:loaded_getscriptPlugin   = 1 "$VIMRUNTIME/plugin/getscriptPlugin.vim
